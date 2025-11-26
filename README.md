@@ -1,9 +1,18 @@
 
+**Date / Data:** 26/11/2025
+> Eu passei por algumas tele-consultas, renovei a receita do meu Atentah e o dia vai ser muito produtivo....
+
+| Mood / Sentimento | Frequency / Frequência | Percentage / Percentual |
+| :--- | :--- | :--- |
+| 🚀 **Productive / Produtivo** | 1 | 100.0% |
+| 🤯 **Stressed / Estressado** | 0 | 0.0% |
+| 😄 **Happy / Feliz** | 0 | 0.0% |
+| 🔹 **Other / Outro** | 0 | 0.0% |
 # ✍️ Dev-Chronicle
 
-> **Description:** The chronicle of my development journey. Automated daily logs (via Shell) of feelings, friction, and technical learnings. A personal UX/DX diary.
+> **Description:** The chronicle of my development journey. Automated daily logs of feelings, friction, and technical learnings. Powered by a smart Python auto-sync automation.
 >
-> **Descrição:** A crônica da minha jornada de desenvolvimento. Logs diários automatizados (via Shell) de sentimentos, atritos (friction) e aprendizados técnicos. Um diário pessoal de UX/DX.
+> **Descrição:** A crônica da minha jornada de desenvolvimento. Logs diários automatizados de sentimentos, atritos (friction) e aprendizados técnicos. Impulsionado por uma automação Python inteligente com sincronização automática.
 
 ---
 
@@ -42,48 +51,26 @@ Todo o conteúdo completo pode ser encontrado na pasta: [`/logs`](./logs).
 
 ---
 
-## 🛠️ How It Works / Como Funciona
+## 🚀 "Zero Touch" Automation / Automação "Zero Touch"
 
-This repository is updated daily with a simple Shell command.
-Este repositório é atualizado diariamente com um simples comando Shell.
+This project uses a custom Python script (`daily_commit.py`) designed for **seamless integration**. It handles Git complexities so the author can focus on writing.
+Este projeto usa um script Python personalizado (`daily_commit.py`) projetado para **integração perfeita**. Ele lida com as complexidades do Git para que o autor foque apenas em escrever.
 
-### Used Technologies / Tecnologias Usadas:
+### ✨ Key Features / Recursos Principais:
 
-* **Markdown:** For clear log formatting. / Para formatação clara dos logs.
-* **Shell Script (`daily_commit.sh`):** Automates file creation, commit, and push. / Automatiza a criação do arquivo, o commit e o push.
-* **GitHub Actions (Future):** Used for data processing and dashboard updates. / Usado para processamento de dados e atualizações do painel.
+* **🐍 Python Powered:** More robust and secure than simple Shell scripts. / Mais robusto e seguro que scripts Shell simples.
+* **🔄 Auto-Sync & Merge:** Automatically detects remote changes, downloads them, and merges with local logs without conflicts. / Detecta automaticamente mudanças remotas, baixa e mescla com logs locais sem conflitos.
+* **🛡️ Anti-Nano (Zero Interruption):** Never gets stuck opening text editors (like Vim or Nano) during merges. / Nunca trava abrindo editores de texto (como Vim ou Nano) durante as mesclagens.
+* **🔐 Smart Auth:** Securely handles Personal Access Tokens (PAT). / Lida de forma segura com Tokens de Acesso Pessoal (PAT).
 
-### Daily Update Commands / Comandos de Atualização Diária
+---
 
-To add a new entry, run the script:
-Para adicionar um novo registro, execute o script:
+## 🛠️ How to Use / Como Usar
+
+### Daily Update Command / Comando de Atualização Diária
+
+To add a new entry, simply run the Python script:
+Para adicionar um novo registro, simplesmente execute o script Python:
 
 ```bash
-./daily_commit.sh
-````
-
------
-
-## 📜 License / Licença
-
-Distributed under the **GNU General Public License v3.0**
-Distribuído sob a **Licença Pública Geral GNU v3.0**
-
-🔗 [https://www.gnu.org/licenses/gpl-3.0.html](https://www.gnu.org/licenses/gpl-3.0.html)
-
------
-
-## 👨‍💻 Author / Autor
-
-**Carlos Henrique Tourinho Santana**
-📍 Salvador – Bahia – Brasil
-
-  * GitHub: [@henriquetourinho](https://github.com/henriquetourinho)
-  * LinkedIn: [Carlos Henrique Tourinho Santana](https://br.linkedin.com/in/carloshenriquetourinhosantana)
-  * Wiki Debian: [wiki.debian.org/henriquetourinho](https://wiki.debian.org/henriquetourinho)
-
------
-
-*Developed with simplicity, security, and efficiency in mind.*
-*Desenvolvido pensando em simplicidade, segurança e eficiência.*
-
+python3 daily_commit.py
