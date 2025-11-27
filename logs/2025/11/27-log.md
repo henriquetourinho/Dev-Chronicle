@@ -1,4 +1,4 @@
 ## 27/11/2025
-#mood: Produtivo
+#mood: Feliz
 
-Bom dia! Eu acabei de acordar. Daqui a alguns minutos eu tenho consulta com o cardiologista. Hoje eu vou organizar toda minha rotina para o mês de dezembro.
+O dia foi muito bom. Pela manhã eu passei por tele-consulta com o cardiológita, programei o DemetérOne, Python Bulk Email Sender e crie a primeira versão do APP do NTXA, usando webview. O próximo passo é criar uma conta de desenvolvedor no Google Play Console, públicar o app na Google Play e criar outros apps. 
