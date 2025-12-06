@@ -1,4 +1,14 @@
 
+**Date / Data:** 05/12/2025
+> HOje foi muitooo bom, F4.
+
+| Mood / Sentimento | Frequency / Frequência | Percentage / Percentual |
+| :--- | :--- | :--- |
+| 🚀 **Productive / Produtivo** | 1 | 16.7% |
+| 🤯 **Stressed / Estressado** | 0 | 0.0% |
+| 😄 **Happy / Feliz** | 4 | 66.7% |
+| 🔹 **Other / Outro** | 1 | 16.7% |
+
 **Date / Data:** 30/11/2025
 > Hoje o dia foi bem movimentado, mas produtivo do jeito que eu gosto.
 Passei a manhã inteira trocando de quarto, organizando tudo, mexendo em cada deta...
