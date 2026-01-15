@@ -1,9 +1,4 @@
 ## 14/01/2026
-#mood: Produtivo
+#mood: Feliz
 
-- teste vídeo
-
-
-> [!TIP]
-> ### Vídeo do Dia
-> https://www.youtube.com/watch?v=jy_RFtrtcVw
+Meu dia foi bastante corrido e na metade eu idealizei um SaaS pada o Github e na noite mas outro.
