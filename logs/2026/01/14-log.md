@@ -1,4 +1,9 @@
-## Log de 14/01/2026 22:10
-#mood: 🚀 Produtivo
+## 14/01/2026
+#mood: Produtivo
 
-Log automático.
+- teste vídeo
+
+
+> [!TIP]
+> ### Vídeo do Dia
+> https://www.youtube.com/watch?v=jy_RFtrtcVw
